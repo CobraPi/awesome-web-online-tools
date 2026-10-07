@@ -27,6 +27,9 @@
 
 ## WEBONLINETOOLS
 
+### Online PDF & File Tools
+- [practicalwebtools.com](https://practicalwebtools.com/) - 1,400+ free client-side PDF & file tools (edit/merge/split/sign/convert), image & audio converters, and 200+ calculators. No uploads - everything runs in the browser.
+
 ### Crontab
 - [crontab.guru](https://crontab.guru/) - An easy to use editor for crontab schedules. (Best)
 - [crontab.com](http://corntab.com) - The crontab GUI
